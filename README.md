@@ -1,1 +1,1 @@
-# uralic_languages
+# Website for the Uralic languages research seminar (Flask)
